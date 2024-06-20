@@ -1,6 +1,4 @@
 ipykernel
 requests
 pandas
-matplotlib
 scipy
-statsmodel
